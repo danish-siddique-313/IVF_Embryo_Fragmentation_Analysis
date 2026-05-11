@@ -11,3 +11,5 @@ Manual embryo grading is subjective and varies across labs and specialists. I bu
 `preprocess_before_annotation.py` handles image cleaning and resizing before annotation.
 
 `Embryo_YOLOv8_Training.ipynb` is the training notebook built on Google Colab.
+
+![Architecture](Untitled%20Diagram.drawio.png)
